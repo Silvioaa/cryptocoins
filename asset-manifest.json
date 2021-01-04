@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/cryptocoins/static/css/main.8555cec5.chunk.css",
+    "main.js": "/cryptocoins/static/js/main.c7f4cb5d.chunk.js",
+    "main.js.map": "/cryptocoins/static/js/main.c7f4cb5d.chunk.js.map",
+    "runtime-main.js": "/cryptocoins/static/js/runtime-main.3ef94576.js",
+    "runtime-main.js.map": "/cryptocoins/static/js/runtime-main.3ef94576.js.map",
+    "xlsx.js": "/cryptocoins/static/js/xlsx.d0da7924.chunk.js",
+    "xlsx.js.map": "/cryptocoins/static/js/xlsx.d0da7924.chunk.js.map",
+    "static/js/3.74b890b9.chunk.js": "/cryptocoins/static/js/3.74b890b9.chunk.js",
+    "static/js/3.74b890b9.chunk.js.map": "/cryptocoins/static/js/3.74b890b9.chunk.js.map",
+    "static/css/4.43b2b750.chunk.css": "/cryptocoins/static/css/4.43b2b750.chunk.css",
+    "static/js/4.f7801ba0.chunk.js": "/cryptocoins/static/js/4.f7801ba0.chunk.js",
+    "static/js/4.f7801ba0.chunk.js.map": "/cryptocoins/static/js/4.f7801ba0.chunk.js.map",
+    "static/js/5.8d6bb8fa.chunk.js": "/cryptocoins/static/js/5.8d6bb8fa.chunk.js",
+    "static/js/5.8d6bb8fa.chunk.js.map": "/cryptocoins/static/js/5.8d6bb8fa.chunk.js.map",
+    "static/js/6.d97970ec.chunk.js": "/cryptocoins/static/js/6.d97970ec.chunk.js",
+    "static/js/6.d97970ec.chunk.js.map": "/cryptocoins/static/js/6.d97970ec.chunk.js.map",
+    "static/js/7.4e50b299.chunk.js": "/cryptocoins/static/js/7.4e50b299.chunk.js",
+    "static/js/7.4e50b299.chunk.js.map": "/cryptocoins/static/js/7.4e50b299.chunk.js.map",
+    "index.html": "/cryptocoins/index.html",
+    "static/css/4.43b2b750.chunk.css.map": "/cryptocoins/static/css/4.43b2b750.chunk.css.map",
+    "static/css/main.8555cec5.chunk.css.map": "/cryptocoins/static/css/main.8555cec5.chunk.css.map",
+    "static/js/4.f7801ba0.chunk.js.LICENSE.txt": "/cryptocoins/static/js/4.f7801ba0.chunk.js.LICENSE.txt",
+    "static/js/5.8d6bb8fa.chunk.js.LICENSE.txt": "/cryptocoins/static/js/5.8d6bb8fa.chunk.js.LICENSE.txt",
+    "static/js/6.d97970ec.chunk.js.LICENSE.txt": "/cryptocoins/static/js/6.d97970ec.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cryptocoins/static/media/image-title2.20788281.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ef94576.js",
+    "static/css/4.43b2b750.chunk.css",
+    "static/js/4.f7801ba0.chunk.js",
+    "static/css/main.8555cec5.chunk.css",
+    "static/js/main.c7f4cb5d.chunk.js"
+  ]
+}
